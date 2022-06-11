@@ -1,3 +1,8 @@
+# Authors:
+* [Alessandro Del Vitto](https://www.linkedin.com/in/alessandro-del-vitto-46a9b9241/)
+* [Michele Di Sabato](https://www.linkedin.com/in/michele-di-sabato/)
+
+
 # Machine Learning Algorithms for the Calibration of Epidemiological Compartmental Models
 ## Application to the Italian COVID-19 outbreaks
 
